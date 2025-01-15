@@ -11,8 +11,9 @@ const artist = document.getElementById('artist');
 const cover = document.getElementById('cover');
 
 const songs = [
-    { title: 'What\'s next', artist: 'Aitch', src: 'song1.mp3', cover: 'image/music-image.jpg' },
-    // Add more songs as needed
+    { title: 'Sukoon Paya', artist: 'Ghulam Mustafa Qadri', src: 'music/sukoon paya.mp4', cover: 'image/sukoon paya.jpg' },
+    { title: 'Main bnda e Aasi', artist: 'Syed Hassan Ullah Hussani', src: 'music/main banda e aasi.mp3', cover: 'image/main banda e aasi.jpg' },
+    { title: 'Krdo karam', artist: 'Nabeel Shaukat Ali ', src: 'music/krdo karam.mp3', cover: 'image/krdo karam.jpg' },
 ];
 
 let songIndex = 0;

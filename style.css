@@ -12,7 +12,6 @@ body {
 }
 
 .player-container {
-    /* background: rgba(94, 60, 158, 0.8); */
     background: linear-gradient(45deg, #6360eb, #9625a0);
     border-radius: 20px;
     padding: 20px;
@@ -51,7 +50,7 @@ body {
 }
 
 .progress {
-    background: #ff5733;
+    background: #fafafc;
     height: 100%;
     width: 50%;
     border-radius: 5px;
